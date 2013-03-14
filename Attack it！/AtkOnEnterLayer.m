@@ -47,4 +47,6 @@
 	[[CCDirector sharedDirector] replaceScene:[CCTransitionFade transitionWithDuration:1.0 scene:[AtkStartGame scene] withColor:ccWHITE]];
 }
 
+
+
 @end
